@@ -32,6 +32,7 @@ https://colab.research.google.com/drive/1ssnH5Hf5jTGFDr4IHH6uAyxTJGTXDbz2?usp=sh
 
 
 # Дифференциально экспрессированные гены 
-<img width="741" alt="r 6" src="https://user-images.githubusercontent.com/71277325/144598949-f5a708ae-90a0-43df-8853-3cc3ab32e866.PNG">
-<img width="524" alt="r 7" src="https://user-images.githubusercontent.com/71277325/144598962-f1998a51-c95d-438e-aa9c-ea20f31c1f87.PNG">
-<img width="536" alt="r 8" src="https://user-images.githubusercontent.com/71277325/144598979-526176ed-1525-4fbd-931c-34a9dee68327.PNG">
+<img width="364" alt="r 6" src="https://user-images.githubusercontent.com/71277325/144637644-b16baa3c-38fd-4dcd-afe1-beae8ff951c7.PNG">
+<img width="348" alt="r 7" src="https://user-images.githubusercontent.com/71277325/144637656-01a1d30d-6464-4de8-9dc0-b06daa16fb6d.PNG">
+
+<img width="332" alt="r 8" src="https://user-images.githubusercontent.com/71277325/144637676-613ee5ff-be7b-4895-a035-2ca1fc3ede8b.PNG">
