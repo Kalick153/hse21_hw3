@@ -1,4 +1,6 @@
 # hse21_hw3
+
+# Part 1
 # MultiQC
 
 <img width="715" alt="miltiq" src="https://user-images.githubusercontent.com/71277325/144593646-d756574b-0a5a-45c5-9d67-1c808e55880c.PNG">
@@ -11,7 +13,7 @@
 <img width="848" alt="multiq8" src="https://user-images.githubusercontent.com/71277325/144593705-0b4ccbb8-3c1b-4476-893d-6952f048afdf.PNG">
 <img width="736" alt="multiq9" src="https://user-images.githubusercontent.com/71277325/144593709-8a953600-79a4-4461-b832-35964ca2c948.PNG">
 
-
+# Counts
 <img width="490" alt="a 2" src="https://user-images.githubusercontent.com/71277325/144643125-b3c7f5bc-52a0-4907-8b3f-3a0335c61479.PNG">
 
 
