@@ -16,6 +16,10 @@
 
 
 # Part 2
+Ссылка на блокнот:
+https://colab.research.google.com/drive/1ssnH5Hf5jTGFDr4IHH6uAyxTJGTXDbz2?usp=sharing
+
+
 <img width="699" alt="r 1" src="https://user-images.githubusercontent.com/71277325/144598886-87eac8ad-864b-4c71-8563-2d4bcf0fd753.PNG">
 
 
