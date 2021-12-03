@@ -13,6 +13,8 @@
 
 
 # Cтатистика по каждому из 6-ти образцов:
+<img width="812" alt="a1" src="https://user-images.githubusercontent.com/71277325/144635263-1eefb104-6202-448c-bd7c-4fd2d7c16a95.PNG">
+
 
 
 # Part 2
