@@ -1,6 +1,7 @@
 # hse21_hw3
 
 # Part 1
+https://colab.research.google.com/drive/1acSXTfAliq61APzn2fqzRaj7KawSCa98?usp=sharing
 # MultiQC
 
 <img width="715" alt="miltiq" src="https://user-images.githubusercontent.com/71277325/144593646-d756574b-0a5a-45c5-9d67-1c808e55880c.PNG">
