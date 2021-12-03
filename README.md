@@ -12,6 +12,9 @@
 <img width="736" alt="multiq9" src="https://user-images.githubusercontent.com/71277325/144593709-8a953600-79a4-4461-b832-35964ca2c948.PNG">
 
 
+# Cтатистика по каждому из 6-ти образцов:
+
+
 # Part 2
 <img width="699" alt="r 1" src="https://user-images.githubusercontent.com/71277325/144598886-87eac8ad-864b-4c71-8563-2d4bcf0fd753.PNG">
 
